@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hey there, I'm <b>Manush</b> — aka <b>"code-manush"</b></h2>
+<h1 align="center">👋 Hey there, I'm <b>Manush</b> — aka <b>"code-manush"</b></h1>
 
 <p align="center">
   <b>Full-Stack MERN Developer</b> | <b>AI & ML Explorer</b> | <b>DSA Enthusiast</b>
