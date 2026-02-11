@@ -14,7 +14,7 @@ I enjoy turning complex ideas into elegant and functional systems.
 
 - 💻 Completed the **MERN Stack** with multiple full-scale projects  
 - 🤖 Currently exploring **AI/ML concepts** and integrating them into real-world web applications  
-- 🧩 Solved **300+ LeetCode** problems and continuously improving my **Data Structures & Algorithms** skills  
+- 🧩 Solved **200+ LeetCode** problems and continuously improving my **Data Structures & Algorithms** skills  
 - 🚀 Passionate about building projects that merge **intelligence + interactivity**  
 - ⚙️ Tech Stack: `MongoDB` • `Express.js` • `React.js` • `Node.js` • `C++` • `Python`
 
